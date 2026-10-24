@@ -1,4 +1,4 @@
-# Hi there, I'm <Your Name> 👋
+# Hi there, I'm Aavishkar Muley 👋
 
 Aspiring Software Developer passionate about **Data Structures & Algorithms, Web Development, and Modern AI Tools**. I enjoy building problem-solving applications, interactive web projects, and exploring modern AI workflows.
 
