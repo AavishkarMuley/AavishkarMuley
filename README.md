@@ -1,59 +1,171 @@
-# Hi there, I'm Aavishkar Muley 👋
+<div align="center">
+  <h1>Aavishkar Muley</h1>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Software+Development;Problem+Solving+%26+DSA;Building+with+AI+Tools)](https://git.io/typing-svg)
 
-Aspiring Software Developer passionate about **Data Structures & Algorithms, Web Development, and Modern AI Tools**. I enjoy building problem-solving applications, interactive web projects, and exploring modern AI workflows.
+  <br/>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aavishkar-muley/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gglKgNynPd/)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aavishkarmuley@gmail.com)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 👨‍💻 About Me
+
+```typescript
+const aavishkar = {
+    role: "Computer Science & Engineering Student",
+    focus: ["Software Development", "Data Structures & Algorithms", "Web Development"],
+    toolsAndAI: ["Google Gemini", "Google Antigravity", "Lovable"],
+    passion: "Solving challenging DSA problems and building functional, reliable software"
+};
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
 
 ### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50" />
+<br><strong>C++</strong>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
+<br><strong>Java</strong>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
+<br><strong>CSS3</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50" />
+<br><strong>SQL</strong>
+</td>
+</tr>
+</table>
+
+### 🚀 Frameworks & Libraries
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+<br><strong>React.js</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="120">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
+<br><strong>Tailwind CSS</strong>
+</td>
+</tr>
+</table>
 
 ### 🤖 AI Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Lovable-FF4088?style=for-the-badge&logo=heart&logoColor=white" alt="Lovable" />
-  <img src="https://img.shields.io/badge/AI_Assisted_Development-7B1FA2?style=for-the-badge" alt="AI Assisted Dev" />
-</p>
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Gemini" width="45" height="45" />
+<br><strong>Google Gemini</strong>
+</td>
+<td align="center" width="140">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Antigravity" width="45" height="45" />
+<br><strong>Google Antigravity</strong>
+</td>
+<td align="center" width="140">
+<img src="https://img.icons8.com/color/96/sparkling--v1.png" alt="Lovable" width="45" height="45" />
+<br><strong>Lovable</strong>
+</td>
+</tr>
+</table>
 
-### ⚙️ Frameworks & Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/C++_STL-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ STL" />
-</p>
+### ⚙️ Developer Tools & IDEs
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="50" height="50" />
+<br><strong>VS Code</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50" />
+<br><strong>IntelliJ IDEA</strong>
+</td>
+<td align="center" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Codeblocks_Logo.svg" alt="Code::Blocks" width="50" height="50" />
+<br><strong>Code::Blocks</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+<br><strong>Git</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
+<br><strong>GitHub</strong>
+</td>
+<td align="center" width="120">
+<img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="Supabase" width="50" height="50" />
+<br><strong>Supabase</strong>
+</td>
+</tr>
+</table>
 
-### 🔧 Developer Tools & IDEs
-<p align="left">
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Code::Blocks-208020?style=for-the-badge" alt="Code::Blocks" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-| Project | Tech Stack | Highlights |
+| Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[In-Memory LRU Cache](https://github.com/<your-username>/in-memory-lru-cache-cpp)** | `C++`, `Hash Map`, `Doubly Linked List` | In-memory cache with $O(1)$ operations, automatic eviction policy, and an interactive terminal visualizer. |
-| **[Spotify Playback Engine](https://github.com/<your-username>/spotify-playback-engine-cpp)** | `C++`, `Doubly Linked List`, `File I/O` | Music player engine with $O(1)$ track skipping, duplicate prevention, file persistence, and simulated ad breaks. |
-| **[Medicine Logger & Reminder](https://github.com/<your-username>/medicine-logger)** | `React.js`, `AI Integrations`, `Web APIs` | Daily medication scheduler featuring dosage logs, lab report summaries, and conversational assistance. |
-| **[Word Search Game](https://github.com/<your-username>/word-search-game)** | `React.js`, `CSS3`, `JavaScript` | Timed interactive word puzzle game with dynamic placement algorithms and score sharing. |
+| **[In-Memory LRU Cache](https://github.com/AavishkarMuley/in-memory-lru-cache-cpp)** | `C++`, `Hash Map`, `Doubly Linked List` | Fast in-memory cache system providing $O(1)$ operations, automatic eviction policy, and interactive terminal visualization. |
+| **[Spotify Playback Engine](https://github.com/AavishkarMuley/spotify-playback-engine-cpp)** | `C++`, `Doubly Linked List`, `File I/O` | Console-based audio playback engine featuring $O(1)$ bidirectional track navigation, file persistence, and simulated ad breaks. |
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AavishkarMuley&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AavishkarMuley&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
 
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=AavishkarMuley&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AavishkarMuley&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AavishkarMuley&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aavishkar-muley/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gglKgNynPd/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aavishkarmuley@gmail.com)
+
+</div>
