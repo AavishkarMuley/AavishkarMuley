@@ -8,20 +8,6 @@
 
 </div>
 
----
-
-### 👨‍💻 About Me
-
-```typescript
-const aavishkar = {
-    role: "Computer Science & Engineering Student",
-    focus: ["Software Development", "Data Structures & Algorithms", "Web Development"],
-    toolsAndAI: ["Google Gemini", "Google Antigravity", "Lovable"],
-    passion: "Solving challenging DSA problems and building functional, reliable software"
-};
-```
-
----
 
 ## 🛠️ Tech Stack & Tools
 
