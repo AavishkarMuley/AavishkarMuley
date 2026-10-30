@@ -1,30 +1,12 @@
 <div align="center">
   <h1>Aavishkar Muley</h1>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Software+Development;Problem+Solving+%26+DSA;Building+with+AI+Tools)](https://git.io/typing-svg)
-
-  <br/>
-
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aavishkar-muley/)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gglKgNynPd/)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aavishkarmuley@gmail.com)
 
 </div>
-
----
-
-### 👨‍💻 About Me
-
-```typescript
-const aavishkar = {
-    role: "Computer Science & Engineering Student",
-    focus: ["Software Development", "Data Structures & Algorithms", "Web Development"],
-    toolsAndAI: ["Google Gemini", "Google Antigravity", "Lovable"],
-    passion: "Solving challenging DSA problems and building functional, reliable software"
-};
-```
-
----
 
 ## 🛠️ Tech Stack & Tools
 
