@@ -1,6 +1,9 @@
 <div align="center">
   <h1>Aavishkar Muley</h1>
   
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Software+Development;Problem+Solving+%26+DSA;Building+with+AI+Tools)](https://git.io/typing-svg)
+
+  <br/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aavishkar-muley/)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gglKgNynPd/)
@@ -8,6 +11,20 @@
 
 </div>
 
+---
+
+### 👨‍💻 About Me
+
+```typescript
+const aavishkar = {
+    role: "Computer Science & Engineering Student",
+    focus: ["Software Development", "Data Structures & Algorithms", "Web Development"],
+    toolsAndAI: ["Google Gemini", "Google Antigravity", "Lovable"],
+    passion: "Solving challenging DSA problems and building functional, reliable software"
+};
+```
+
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -65,15 +82,15 @@
 <table>
 <tr>
 <td align="center" width="140">
-<img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Gemini" width="45" height="45" />
+<img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini" width="45" height="45" />
 <br><strong>Google Gemini</strong>
 </td>
 <td align="center" width="140">
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Antigravity" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Antigravity" width="45" height="45" />
 <br><strong>Google Antigravity</strong>
 </td>
 <td align="center" width="140">
-<img src="https://img.icons8.com/color/96/sparkling--v1.png" alt="Lovable" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lovable.svg" alt="Lovable" width="45" height="45" />
 <br><strong>Lovable</strong>
 </td>
 </tr>
@@ -83,7 +100,7 @@
 <table>
 <tr>
 <td align="center" width="120">
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" />
 <br><strong>VS Code</strong>
 </td>
 <td align="center" width="120">
@@ -91,7 +108,7 @@
 <br><strong>IntelliJ IDEA</strong>
 </td>
 <td align="center" width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Codeblocks_Logo.svg" alt="Code::Blocks" width="50" height="50" />
+<img src="https://cdn.simpleicons.org/codeblocks" alt="Code::Blocks" width="50" height="50" />
 <br><strong>Code::Blocks</strong>
 </td>
 <td align="center" width="120">
@@ -103,7 +120,7 @@
 <br><strong>GitHub</strong>
 </td>
 <td align="center" width="120">
-<img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="Supabase" width="50" height="50" />
+<img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="50" height="50" />
 <br><strong>Supabase</strong>
 </td>
 </tr>
@@ -129,7 +146,7 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=AavishkarMuley&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api?username=AavishkarMuley&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
 </td>
 <td width="50%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AavishkarMuley&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
@@ -137,7 +154,7 @@
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AavishkarMuley&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AavishkarMuley&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
