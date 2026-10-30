@@ -23,6 +23,10 @@
 <br><strong>Java</strong>
 </td>
 <td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50" />
+<br><strong>SQL</strong>
+</td>
+<td align="center" width="120">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
 <br><strong>JavaScript</strong>
 </td>
@@ -33,10 +37,6 @@
 <td align="center" width="120">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
 <br><strong>CSS3</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50" />
-<br><strong>SQL</strong>
 </td>
 </tr>
 </table>
