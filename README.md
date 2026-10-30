@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Aavishkar Muley</h1>
-  
-  
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aavishkar-muley/)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gglKgNynPd/)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aavishkarmuley@gmail.com)
@@ -64,11 +63,11 @@
 <table>
 <tr>
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/googlegemini" alt="Gemini" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg" alt="Google Gemini" width="45" height="45" />
 <br><strong>Google Gemini</strong>
 </td>
 <td align="center" width="140">
-<img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Antigravity" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google Antigravity" width="45" height="45" />
 <br><strong>Google Antigravity</strong>
 </td>
 <td align="center" width="140">
@@ -90,7 +89,7 @@
 <br><strong>IntelliJ IDEA</strong>
 </td>
 <td align="center" width="120">
-<img src="https://cdn.simpleicons.org/codeblocks" alt="Code::Blocks" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus-icon-theme@master/Papirus/64x64/apps/codeblocks.svg" alt="Code::Blocks" width="50" height="50" />
 <br><strong>Code::Blocks</strong>
 </td>
 <td align="center" width="120">
@@ -98,7 +97,10 @@
 <br><strong>Git</strong>
 </td>
 <td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="50" height="50" />
+</picture>
 <br><strong>GitHub</strong>
 </td>
 <td align="center" width="120">
